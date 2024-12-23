@@ -1,4 +1,3 @@
-user.sh                                andrewmohawk@cricket
 #!/bin/bash
 
 # Check if GitHub CLI is installed
